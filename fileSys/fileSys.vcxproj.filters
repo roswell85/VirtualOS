@@ -29,9 +29,6 @@
     <ClInclude Include="File.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="uttils.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="Container.h">
       <Filter>Header Files</Filter>
     </ClInclude>
